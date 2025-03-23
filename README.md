@@ -1,5 +1,5 @@
 # Project Belajar Machine Learning Pemula Dicoding
-## Clustering and Classification By Using Crop-Soil Dataset
+## Clustering Classification
 
 ### Description :
 This course [Belajar Machine Learning Pemula](https://www.dicoding.com/academies/184/) from [Dicoding](https://www.dicoding.com/) provides an introduction to the world of Machine Learning, 
