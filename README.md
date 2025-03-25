@@ -1,6 +1,10 @@
 # Project Belajar Machine Learning Pemula Dicoding
 ## Clustering Classification
 
+<p align="center">
+<img src="/Certificate/Sertifikat Belajar Machine Learning Pemula.jpg" width="80%" height="30%">
+</p>
+
 ### Description :
 This course [Belajar Machine Learning Pemula](https://www.dicoding.com/academies/184/) from [Dicoding](https://www.dicoding.com/) provides an introduction to the world of Machine Learning, 
 from basic concepts, types of ML, to how to implement them using Python. Participants will learn how ML models work, as well as how to process and analyze data to make predictions.
