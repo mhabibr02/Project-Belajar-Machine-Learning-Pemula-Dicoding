@@ -81,15 +81,15 @@ temperature is Cluster 2, while the coldest is Cluster 1. Soil moisture is fairl
 
 ### Featured : 
 <p align="center">
-  <img src="Image 1.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
-  <img src="Image 2.png" width="400" height="250" style="display:inline-block;">
+  <img src="/Image/Image 1.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
+  <img src="/Image/Image 2.png" width="400" height="250" style="display:inline-block;">
 </p>
 <p align="center">
-  <img src="Image 3.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
-  <img src="Image 4.png" width="400" height="250" style="display:inline-block;">
+  <img src="/Image/Image 3.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
+  <img src="/Image/Image 4.png" width="400" height="250" style="display:inline-block;">
 </p> 
 <p align="center">
-  <img src="Image 5.png" width="805" height="100">
+  <img src="/Image/Image 5.png" width="805" height="100">
 
 ### Source
 Source Dataset from Kaggle : [Crop and Soil Dataset](https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset) <br>
