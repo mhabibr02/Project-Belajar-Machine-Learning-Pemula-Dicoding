@@ -5,11 +5,11 @@
 <img src="/Certificate/Sertifikat Belajar Machine Learning Pemula.jpg" width="80%" height="30%">
 </p>
 
-### Description :
+### Description
 This course [Belajar Machine Learning Pemula](https://www.dicoding.com/academies/184/) from [Dicoding](https://www.dicoding.com/) provides an introduction to the world of Machine Learning, 
 from basic concepts, types of ML, to how to implement them using Python. Participants will learn how ML models work, as well as how to process and analyze data to make predictions.
 
-### Syllabus :
+### Syllabus
 1. Machine Learning Introduction <br>
 This section provides a fundamental understanding of Machine Learning (ML), including its definition, importance, and real-world applications. You will learn how ML differs from traditional
 programming and explore its role in artificial intelligence (AI).
@@ -35,7 +35,7 @@ Learn strategies like regularization and cross-validation to balance model compl
 Hyperparameter tuning is the process of optimizing a model by adjusting its parameters to improve performance. This section introduces techniques like Grid Search, Random Search, and
 Bayesian Optimization to fine-tune ML models for better accuracy and efficiency.
 
-### Result : 
+### Result
 #### Cluster 0 
 - Mean temperature (°C): 30.49 (Min: 20.28, Max: 40).
 - Mean humidity (%): 58.71 (Min: 41.97, Max: 80).
@@ -72,18 +72,18 @@ to these conditions, with a 14-26-26 fertilizer that contains more phosphorus to
 - Analysis: This cluster has the highest temperature compared to the others, with quite high humidity. Red soil has higher phosphorus content than Cluster 1 and is more suitable for
 cotton plants. 14-35-14 fertilizer supports plant growth with high phosphorus content.
 
-### Conclusions :
+### Conclusions
 Based on the analysis of the characteristics of each cluster, it can be concluded that: 
 Cluster 0 is more suitable for corn cultivation on clay soil with balanced NPK fertilizer (20-20). Cluster 1 and Cluster 2 are both suitable for cotton, but the soil is different. 
 Cluster 1 (Sandy soil) has lower phosphorus and uses 10-26-26 fertilizer. Cluster 2 (Red soil) has higher phosphorus and uses 14-35-14 fertilizer. The cluster with the highest 
 temperature is Cluster 2, while the coldest is Cluster 1. Soil moisture is fairly uniform in all clusters, but nitrogen content is higher in Cluster 0.
 
-### Strategy :
+### Strategy
 **Cluster 0** : Can be used for farming plants with high nutrient requirements, such as green leafy vegetables or plants with fast growth cycles. <br>
 **Cluster 1** : More suitable for plants that do not require a lot of additional nutrients, such as dry plants or local plants that can survive in nutrient-poor soil conditions. <br>
 **Cluster 2** : Suitable for plants that require high humidity, such as rice or other tropical plants. <br>
 
-### Featured : 
+### Featured
 <p align="center">
   <img src="/Image/Image 1.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
   <img src="/Image/Image 2.png" width="400" height="250" style="display:inline-block;">
