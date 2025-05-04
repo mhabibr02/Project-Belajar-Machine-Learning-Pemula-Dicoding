@@ -100,9 +100,5 @@ Source Dataset from Kaggle : [Crop and Soil Dataset](https://www.kaggle.com/data
 Source Code from Colab : [Clustering](https://colab.research.google.com/drive/1t7mIf5sySn1cCVmPeX4SYKyb6ExlvhGW?usp=sharing) and [Classification](https://colab.research.google.com/drive/1h02tYin2xqtV8wQbv38oxNRTcq9AX8OH?usp=sharing)
 
 ### Remark
-If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](azizhabibrahim@gmail.com) and 
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
 [LinkedIn](https://www.linkedin.com/in/mhabibr02/)
-
-
-
-
