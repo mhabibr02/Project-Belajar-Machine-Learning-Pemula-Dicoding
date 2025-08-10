@@ -7,28 +7,28 @@ This course [Belajar Machine Learning Pemula](https://www.dicoding.com/academies
 </p>
 
 ### Syllabus
-1. Machine Learning Introduction <br>
+#### 1. Machine Learning Introduction <br>
 This section provides a fundamental understanding of Machine Learning (ML), including its definition, importance, and real-world applications. You will learn how ML differs from traditional
 programming and explore its role in artificial intelligence (AI).
-2. Machine Learning Workflow <br>
+#### 2. Machine Learning Workflow <br>
 Learn the step-by-step process of developing an ML model, from data collection and preprocessing to model training, evaluation, and deployment. This workflow ensures the systematic
 development of efficient and reliable ML models.
-3. Supervised Learning Classification <br>
+#### 3. Supervised Learning Classification <br>
 Classification is a type of supervised learning where models learn from labeled data to categorize new data into predefined classes. You will explore popular algorithms such as
 Decision Trees, Support Vector Machines (SVM), and Neural Networks.
-4. Supervised Learning Regression <br>
+#### 4. Supervised Learning Regression <br>
 Regression is another type of supervised learning used to predict continuous values, such as house prices or stock trends. This section covers common regression techniques, including
 Linear Regression, Polynomial Regression, and Decision Tree Regression.
-5. Unsupervised Learning Clustering <br>
+#### 5. Unsupervised Learning Clustering <br>
 Clustering is a key unsupervised learning technique that groups similar data points without labeled training data. You will learn about clustering methods like K-Means, Hierarchical
 Clustering, and DBSCAN to find patterns in unstructured data.
-6. Tehnique Feature Engineering <br>
+#### 6. Tehnique Feature Engineering <br>
 Feature engineering is the process of transforming raw data into meaningful inputs for ML models. This section covers techniques like scaling, encoding categorical variables, handling
 missing values, and feature selection to improve model performance.
-7. Overfitting and Underfitting <br>
+#### 7. Overfitting and Underfitting <br>
 Understand the concepts of overfitting (when a model learns too much from training data and performs poorly on new data) and underfitting (when a model fails to learn patterns effectively).
 Learn strategies like regularization and cross-validation to balance model complexity.
-8. Optimizaiton Modelling with Hyperparameter Tunning <br>
+#### 8. Optimizaiton Modelling with Hyperparameter Tunning <br>
 Hyperparameter tuning is the process of optimizing a model by adjusting its parameters to improve performance. This section introduces techniques like Grid Search, Random Search, and
 Bayesian Optimization to fine-tune ML models for better accuracy and efficiency.
 
